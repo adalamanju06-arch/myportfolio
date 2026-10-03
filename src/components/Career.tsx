@@ -41,7 +41,7 @@ const Career = () => {
                 <h4>Secondary School Education</h4>
                 <h5>Sahiti Vidya Niketan High School</h5>
               </div>
-              <h3>2012 - 2012</h3>
+              <h3>2012 - 2022</h3>
             </div>
             <p>
               CGPA: 9.7
