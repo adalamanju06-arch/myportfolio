@@ -17,7 +17,7 @@ const Career = () => {
                 <h4>B.Tech – Computer Science and Engineering</h4>
                 <h5>Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)</h5>
               </div>
-              <h3>2020 - 2024</h3>
+              <h3>2024 - 2028</h3>
             </div>
             <p>
               CGPA: 9.11
@@ -29,7 +29,7 @@ const Career = () => {
                 <h4>Intermediate</h4>
                 <h5>Narayana Junior College</h5>
               </div>
-              <h3>2018 - 2020</h3>
+              <h3>2022 - 2024</h3>
             </div>
             <p>
               Percentage: 94.3%
@@ -41,7 +41,7 @@ const Career = () => {
                 <h4>Secondary School Education</h4>
                 <h5>Sahiti Vidya Niketan High School</h5>
               </div>
-              <h3>2016 - 2018</h3>
+              <h3>2012 - 2012</h3>
             </div>
             <p>
               CGPA: 9.7
